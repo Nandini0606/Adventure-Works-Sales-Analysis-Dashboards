@@ -157,7 +157,7 @@ This project demonstrates end-to-end business intelligence capabilities by creat
 <details>
 <summary><b>📊 Business Insights Dashboard</b></summary>
 
-![Tableau Overview](images/tableau_overview_light.png)
+![Tableau Overview](https://github.com/Nandini0606/Adventure-Works-Sales-Analysis-Dashboards/blob/main/Screenshot%20of%20Tableau%20Overview%20Analysis%20Dashboard.png)
 
 **Features:**
 - Top 10 Products by Sales
@@ -171,7 +171,7 @@ This project demonstrates end-to-end business intelligence capabilities by creat
 <details>
 <summary><b>📦 Product Performance Dashboard</b></summary>
 
-![Tableau Product](images/tableau_product_light.png)
+![Tableau Product](https://github.com/Nandini0606/Adventure-Works-Sales-Analysis-Dashboards/blob/main/Screenshot%20of%20Product%20Analysis%20Dashboard.png)
 
 **Features:**
 - Color-wise Product Analysis
@@ -185,7 +185,7 @@ This project demonstrates end-to-end business intelligence capabilities by creat
 <details>
 <summary><b>👥 Customer Performance Dashboard</b></summary>
 
-![Tableau Customer](images/tableau_customer_light.png)
+![Tableau Customer](https://github.com/Nandini0606/Adventure-Works-Sales-Analysis-Dashboards/blob/main/Screenshot%20of%20Tableau%20Customer%20Analysis%20Dashboard.png)
 
 **Features:**
 - Gender Distribution Analysis
