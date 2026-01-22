@@ -203,7 +203,11 @@ This project demonstrates end-to-end business intelligence capabilities by creat
 <details>
 <summary><b>📊 Excel Interactive Dashboard</b></summary>
 
-![Excel Dashboard](images/excel_dashboard.png)
+![ ]([images/excel_dashboard.png](https://github.com/Nandini0606/Adventure-Works-Sales-Analysis-Dashboards/blob/main/Screenshot%20of%20Excel%20Business%20Insights%20Dashboard.png))
+
+![ ](https://github.com/Nandini0606/Adventure-Works-Sales-Analysis-Dashboards/blob/main/Screenshot%20of%20Excel%20Customer%20Performance%20Dashboard.png)
+
+![ ](https://github.com/Nandini0606/Adventure-Works-Sales-Analysis-Dashboards/blob/main/Screenshot%20of%20Excel%20Product%20Performance%20Dashboard.png)
 
 **Features:**
 - Pivot Tables for dynamic analysis
