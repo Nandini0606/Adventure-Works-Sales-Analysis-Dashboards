@@ -171,7 +171,7 @@ This project demonstrates end-to-end business intelligence capabilities by creat
 <details>
 <summary><b>📦 Product Performance Dashboard</b></summary>
 
-![Tableau Product](https://github.com/Nandini0606/Adventure-Works-Sales-Analysis-Dashboards/blob/main/Screenshot%20of%20Product%20Analysis%20Dashboard.png)
+![Tableau Product](https://github.com/Nandini0606/Adventure-Works-Sales-Analysis-Dashboards/blob/main/Screenshot%20of%20Tableau%20Product%20Analysis%20Dashboard.png)
 
 **Features:**
 - Color-wise Product Analysis
